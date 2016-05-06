@@ -1,0 +1,5 @@
+rwv/test/test/HelloWorldBuilder$DescriptorImpl.class
+rwv/test/test/HelloWorldBuilder.stapler
+META-INF/annotations/hudson.Extension
+rwv/test/test/HelloWorldBuilder.class
+rwv/test/test/HelloWorldBuilder/DescriptorImpl/doCheckName.stapler
